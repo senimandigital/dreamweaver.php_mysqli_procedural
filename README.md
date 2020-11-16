@@ -4,3 +4,7 @@ Opensource Content Management System yang dikembangkan setelah melakukan pemutak
 Editor Pengembangan Website Berbasis PHP Secara Visual kami Bandrol dengan harga Rp. 5.000.000,00 bagi yang Berminat.
 
 Tool ini sangat cocok untuk mahasiswa yang perlu membuat aplikasi untuk skripsi, ketika membeli anda akan mendapatkan pelayanan penuh hingga anda berhasil membuat Aplikasi pertama anda menggunakan alat ini.
+
+Sebesar apapun proyek yang anda mau buat tidak masalah, selama itu masih dalam lingkup Database Sistem Informasi Manajemen dan Manufaktur anda bisa mengandalakan alat dan pendampingan dari kami. Tapi jika proyek anda mau membuat seperti Traveloka, Tokopedia dengan fitur integrasi data ke Perbankan, Maskapai Penerbangan, maka lupakan saja dan ganti judul lain.
+
+Untuk anda yang ingin membuat Skripsi, pikirkan baik-baik apa yang mau anda buat dan berapa biaya yang harus anda keluarkan, artikel berikut berisi sekilas gambaran proyek beserta nilai untuk penyelesaian-nya: https://senimandigital.wordpress.com/2009/08/10/wawasan-rancangan-penggunaan-layanan-senimandigital/
